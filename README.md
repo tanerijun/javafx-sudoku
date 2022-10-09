@@ -1,7 +1,5 @@
 ## JavaFX - Sudoku
 
-A Sudoku game made with JavaFX
-I followed this tutorial:
-https://www.youtube.com/watch?v=qH9mWpYMtYU
+Only an experiment to learn javafx
 
-nb: There's some bug with the game logic
+Unfinished project
